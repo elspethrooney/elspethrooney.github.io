@@ -1,106 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-29T17:27:22+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Free crypto seriously</title><subtitle>A Blog about free bitcoins - faucets, watching adds, lotery etc.</subtitle><author><name>Elspeth Rooney</name></author><entry><title type="html">Best strategy for HI-LO game</title><link href="http://localhost:4000/2020/10/28/hi-lo-games.html" rel="alternate" type="text/html" title="Best strategy for HI-LO game" /><published>2020-10-28T16:35:55+01:00</published><updated>2020-10-28T16:35:55+01:00</updated><id>http://localhost:4000/2020/10/28/hi-lo-games</id><content type="html" xml:base="http://localhost:4000/2020/10/28/hi-lo-games.html">&lt;h2&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;
-    Many variants of HI-LO game occur on the free crypto ecosystem.
-    Often the game is called directly the multiply game, or it is sorted in the
-    multiply games category.
-    The goal of this game is to make a binary (higher/lower than something) prediction
-    about value of a random number.
-    The most common variant of this game can be seen at
-    &lt;a href=&quot;https://freebitco.in/?r=38728911&quot;&gt;freebitco.in&lt;/a&gt; and
-    &lt;a href=&quot;https://faucetpay.io/?r=713708&quot;&gt;FaucetPay&lt;/a&gt;.
-    This game definitely belongs into the gambling category.
-&lt;/p&gt;
-&lt;p&gt;
-    The main idea of this game is based on fact, that the game provider
-    always give unfair odds. In other words - the range of winning numbers
-    is always somehow smaller than the range of losing numbers.
-    What does it mean? The loss is always more common than win.
-&lt;/p&gt;
-&lt;p&gt;
-    On the internet, it is possible to find some tutorials how to beat this game.
-    I analyze these tutorials theoretically and I also test them.
-    Currently I can conclude, no one of them is working.
-    And I can explain to you why they are not working at all.
-    The only one viable existing approach
-    how to deal with these games is presented in this post.
-&lt;/p&gt;
-
-&lt;h2&gt;Wrong idea 1: waiting for the right time&lt;/h2&gt;
-&lt;p&gt;
-    Some internet posts suggest to place a big bet after every series of losses.
-    This approach is based on a wrong assumption,
-    that the wins and losses are somehow evenly distributed in time
-    and you can observe the imbalance of them.
-    However that is not true.
-    &lt;b&gt;Every new roll is completely independent from all others.&lt;/b&gt;
-&lt;/p&gt;
-
-&lt;img class=&quot;in_post&quot; src=&quot;/img/posts/0004a.jpg&quot;&gt;
-&lt;p&gt;
-    I will try to clarify it with a simple example.
-    Imagine a fair coin - you have a chance to win exactly 50% of flips.
-    You play this game for 1000 times and you luckily win all 1000 times!
-    Now what is the probability you win also the next roll?
-    It is again only 50%.
-    The extreme luck of 1000 win strike imply nothing for the next roll.
-    That is the sad true and there is nothing you can do abut that.
-    In case you are in doubt, please make an experiment with a fair coin or a dice.
-    You do not have to lost any money in gambling to figure that out the hard way.
-&lt;/p&gt;
-
-&lt;h2&gt;Wrong idea 2: double your bet after lost&lt;/h2&gt;
-&lt;p&gt;
-    There is one street smart strategy popular in similar games.
-    The strategy is based on recovering from your loses by
-    betting more (typically doubling the bet) in the next round.
-    Many people know this strategy, however no one has ever become rich.
-&lt;/p&gt;
-
-&lt;img class=&quot;in_post&quot; src=&quot;/img/posts/0004b.jpg&quot;&gt;
-
-&lt;p&gt;
-    Simple example of this strategy follows. Again consider a fair coin.
-    Bet 1 coin. If you win, bet again 1 coin. In case of lost,
-    double your bet to 2 coins in order to recover from the previous lost in a next round.
-    In case you lost 2 times in a row, bet 4 coins etc.
-    So no matter how many times you lost, you get all coins back with the first win.
-&lt;/p&gt;
-&lt;p&gt;
-    This strategy sounds perfect, so why it does not work?
-    Because &lt;b&gt;you do not posses infinite number of coins&lt;/b&gt;.
-    Sooner or later, you will get in a situation with too many lost games in a row
-    and you will not have enough coins to cover it.
-    It really does not matter how unlikely it sounds,
-    it will happen and you cannot prevent it.
-&lt;/p&gt;
-
-
-&lt;h2&gt;The correct approach&lt;/h2&gt;
-&lt;p&gt;
-    Finally we are getting to the most important part of this post.
-    Although now it seems impossible to beat this kind of games,
-    there is something you can do.
-    And this approach is called avoiding them.
-    Simply avoid any game that you cannot win in a long run.
-&lt;/p&gt;
-&lt;p&gt;
-    I am pretty sure, some of you now have the idea - what about not playing the
-    game in a long run?
-    What about all those people who won a lottery?
-    Do not confuse lucky and smart - it is not similar in any way.
-    The problem is that your life is full of decisions.
-    Basically every decision you make is a part of long run decision making sequence.
-    So to be successful in any game, field, or whole life - you need
-    to limit all those decisions that does not pay off in the long run.
-    Again, if you are in doubt, run experiments.
-&lt;/p&gt;
-
-&lt;h2&gt;Conslusion&lt;/h2&gt;
-&lt;p&gt;
-    Do not trust to the scam blogger of the Internet and their magical approaches
-    how to beat unbeatable games. They are incredibly stupid, or they have
-    some profit from your action (they invite you via referral to the game etc.).
-&lt;/p&gt;</content><author><name>Elspeth Rooney</name></author><summary type="html">Introduction Many variants of HI-LO game occur on the free crypto ecosystem. Often the game is called directly the multiply game, or it is sorted in the multiply games category. The goal of this game is to make a binary (higher/lower than something) prediction about value of a random number. The most common variant of this game can be seen at freebitco.in and FaucetPay. This game definitely belongs into the gambling category. The main idea of this game is based on fact, that the game provider always give unfair odds. In other words - the range of winning numbers is always somehow smaller than the range of losing numbers. What does it mean? The loss is always more common than win. On the internet, it is possible to find some tutorials how to beat this game. I analyze these tutorials theoretically and I also test them. Currently I can conclude, no one of them is working. And I can explain to you why they are not working at all. The only one viable existing approach how to deal with these games is presented in this post.</summary></entry><entry><title type="html">The best free crypto pages of the year 2020</title><link href="http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020.html" rel="alternate" type="text/html" title="The best free crypto pages of the year 2020" /><published>2020-10-27T07:13:12+01:00</published><updated>2020-10-27T07:13:12+01:00</updated><id>http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020</id><content type="html" xml:base="http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020.html">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-29T17:36:45+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Free crypto seriously</title><subtitle>A Blog about free bitcoins - faucets, watching adds, lotery etc.</subtitle><author><name>Elspeth Rooney</name></author><entry><title type="html">The best free crypto pages of the year 2020</title><link href="http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020.html" rel="alternate" type="text/html" title="The best free crypto pages of the year 2020" /><published>2020-10-27T07:13:12+01:00</published><updated>2020-10-27T07:13:12+01:00</updated><id>http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020</id><content type="html" xml:base="http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020.html">&lt;p&gt;
     The best crypto websites recommended to earn free crypto in 2020 are introduced here.
     All pages mentioned here are considered to be legit.
     However, keep in mind, they are not regulated,
@@ -320,10 +218,7 @@ The interest rate is similar to other legit services, so I would trust it is not
 &lt;p&gt;
 I would strongly recommend to use &lt;a href=&quot;https://freebitco.in/?r=38728911&quot;&gt;freebitco.in&lt;/a&gt;
 as a viable option in your free BTC site portfolio.
-&lt;/p&gt;</content><author><name>Elspeth Rooney</name></author><summary type="html">I have tested this faucet site for a few months. I analyzed all of their features. I have to conclude that I would recommend this site. Keep in mind, this post can be updated in future.</summary></entry><entry><title type="html">How to spot a scam website</title><link href="http://localhost:4000/2020/10/25/how_to_spot_a_scam.html" rel="alternate" type="text/html" title="How to spot a scam website" /><published>2020-10-25T12:10:15+01:00</published><updated>2020-10-25T12:10:15+01:00</updated><id>http://localhost:4000/2020/10/25/how_to_spot_a_scam</id><content type="html" xml:base="http://localhost:4000/2020/10/25/how_to_spot_a_scam.html">&lt;p&gt;
-    In this post I am revealing the basic principles how to recognize the obvious and
-    not the so obvious scams.
-&lt;/p&gt;</content><author><name>Elspeth Rooney</name></author><summary type="html">In this post I am revealing the basic principles how to recognize the obvious and not the so obvious scams.</summary></entry><entry><title type="html">List of obvious scams</title><link href="http://localhost:4000/2020/10/25/known_scams.html" rel="alternate" type="text/html" title="List of obvious scams" /><published>2020-10-25T12:10:15+01:00</published><updated>2020-10-25T12:10:15+01:00</updated><id>http://localhost:4000/2020/10/25/known_scams</id><content type="html" xml:base="http://localhost:4000/2020/10/25/known_scams.html">&lt;p&gt;
+&lt;/p&gt;</content><author><name>Elspeth Rooney</name></author><summary type="html">I have tested this faucet site for a few months. I analyzed all of their features. I have to conclude that I would recommend this site. Keep in mind, this post can be updated in future.</summary></entry><entry><title type="html">List of obvious scams</title><link href="http://localhost:4000/2020/10/25/known_scams.html" rel="alternate" type="text/html" title="List of obvious scams" /><published>2020-10-25T12:10:15+01:00</published><updated>2020-10-25T12:10:15+01:00</updated><id>http://localhost:4000/2020/10/25/known_scams</id><content type="html" xml:base="http://localhost:4000/2020/10/25/known_scams.html">&lt;p&gt;
     The pages listed below are obviously scam.
 &lt;/p&gt;
 
