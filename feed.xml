@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-30T09:16:46+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Free crypto seriously</title><subtitle>A Blog about free bitcoins - faucets, watching adds, lotery etc.</subtitle><author><name>Elspeth Rooney</name></author><entry><title type="html">The best free crypto pages of the year 2020</title><link href="http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020.html" rel="alternate" type="text/html" title="The best free crypto pages of the year 2020" /><published>2020-10-27T07:13:12+01:00</published><updated>2020-10-27T07:13:12+01:00</updated><id>http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020</id><content type="html" xml:base="http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020.html">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-03T20:04:29+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Free crypto seriously</title><subtitle>A Blog about free bitcoins - faucets, watching adds, lotery etc.</subtitle><author><name>Elspeth Rooney</name></author><entry><title type="html">Best strategy for HI-LO game</title><link href="http://localhost:4000/2020/11/03/hi-lo-games.html" rel="alternate" type="text/html" title="Best strategy for HI-LO game" /><published>2020-11-03T16:35:55+01:00</published><updated>2020-11-03T16:35:55+01:00</updated><id>http://localhost:4000/2020/11/03/hi-lo-games</id><content type="html" xml:base="http://localhost:4000/2020/11/03/hi-lo-games.html">&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;
+    Many variants of HI-LO game occur on the free crypto ecosystem.
+    Often the game is called directly the multiply game, or it is sorted in the
+    multiply games category.
+    The goal of this game is to make a binary (higher/lower than something) prediction
+    about value of a random number.
+    The most common variant of this game can be seen at
+    &lt;a href=&quot;https://freebitco.in/?r=38728911&quot;&gt;freebitco.in&lt;/a&gt; and
+    &lt;a href=&quot;https://faucetpay.io/?r=713708&quot;&gt;FaucetPay&lt;/a&gt;.
+    This game definitely belongs into the gambling category.
+&lt;/p&gt;
+&lt;p&gt;
+    The main idea of this game is based on fact, that the game provider
+    always give unfair odds. In other words - the range of winning numbers
+    is always somehow smaller than the range of losing numbers.
+    What does it mean? The loss is always more common than win.
+&lt;/p&gt;
+&lt;p&gt;
+    On the internet, it is possible to find some tutorials how to beat this game.
+    I analyze these tutorials theoretically and I also test them.
+    Currently I can conclude, no one of them is working.
+    And I can explain to you why they are not working at all.
+    The only one viable existing approach
+    how to deal with these games is presented in this post.
+&lt;/p&gt;
+
+&lt;h2&gt;Wrong idea 1: waiting for the right time&lt;/h2&gt;
+&lt;p&gt;
+    Some internet posts suggest to place a big bet after every series of losses.
+    This approach is based on a wrong assumption,
+    that the wins and losses are somehow evenly distributed in time
+    and you can observe the imbalance of them.
+    However that is not true.
+    &lt;b&gt;Every new roll is completely independent from all others.&lt;/b&gt;
+&lt;/p&gt;
+
+&lt;img class=&quot;in_post&quot; src=&quot;/img/posts/0004a.jpg&quot;&gt;
+&lt;p&gt;
+    I will try to clarify it with a simple example.
+    Imagine a fair coin - you have a chance to win exactly 50% of flips.
+    You play this game for 1000 times and you luckily win all 1000 times!
+    Now what is the probability you win also the next roll?
+    It is again only 50%.
+    The extreme luck of 1000 win strike imply nothing for the next roll.
+    That is the sad true and there is nothing you can do abut that.
+    In case you are in doubt, please make an experiment with a fair coin or a dice.
+    You do not have to lost any money in gambling to figure that out the hard way.
+&lt;/p&gt;
+
+&lt;h2&gt;Wrong idea 2: double your bet after lost&lt;/h2&gt;
+&lt;p&gt;
+    There is one street smart strategy popular in similar games.
+    The strategy is based on recovering from your loses by
+    betting more (typically doubling the bet) in the next round.
+    Many people know this strategy, however no one has ever become rich.
+&lt;/p&gt;
+
+&lt;img class=&quot;in_post&quot; src=&quot;/img/posts/0004b.jpg&quot;&gt;
+
+&lt;p&gt;
+    Simple example of this strategy follows. Again consider a fair coin.
+    Bet 1 coin. If you win, bet again 1 coin. In case of lost,
+    double your bet to 2 coins in order to recover from the previous lost in a next round.
+    In case you lost 2 times in a row, bet 4 coins etc.
+    So no matter how many times you lost, you get all coins back with the first win.
+&lt;/p&gt;
+&lt;p&gt;
+    You can clearly see the point from the following figure.
+    One game session is displayed in all three charts - the first two charts
+    are details of the last one. The game session
+    is done with 1000 coins and default bet of size 1 coin.
+    The first chart displays only first 100 games.
+    You can clearly see how look the pattern of bet increments.
+    The first 100 games look pretty good for the player.
+    And now the third chart, you can see that the number of coins
+    is hitting really low values (much lower than our 1000 coins big stack).
+    Every situation below zero means lost of everything and fatal end of the game.
+&lt;/p&gt;
+
+&lt;img class=&quot;in_post&quot; src=&quot;/img/posts/0004c.png&quot;&gt;
+
+&lt;p&gt;
+    This strategy sounds perfect, so why it does not work?
+    Because &lt;b&gt;you do not posses infinite number of coins&lt;/b&gt;.
+    Sooner or later, you will get in a situation with too many lost games in a row
+    and you will not have enough coins to cover it.
+    It really does not matter how unlikely it sounds,
+    it will happen and you cannot prevent it.
+&lt;/p&gt;
+
+
+&lt;h2&gt;The correct approach&lt;/h2&gt;
+&lt;p&gt;
+    Finally we are getting to the most important part of this post.
+    Although now it seems impossible to beat this kind of games,
+    there is something you can do.
+    And this approach is called avoiding them.
+    Simply avoid any game that you cannot win in a long run.
+&lt;/p&gt;
+&lt;p&gt;
+    I am pretty sure, some of you now have the idea - what about not playing the
+    game in a long run?
+    What about all those people who won a lottery?
+    Do not confuse lucky and smart - it is not similar in any way.
+    The problem is that your life is full of decisions.
+    Basically every decision you make is a part of long run decision making sequence.
+    So to be successful in any game, field, or whole life - you need
+    to limit all those decisions that does not pay off in the long run.
+    Again, if you are in doubt, run experiments.
+&lt;/p&gt;
+
+&lt;h2&gt;Conslusion&lt;/h2&gt;
+&lt;p&gt;
+    Do not trust to the scam blogger of the Internet and their magical approaches
+    how to beat unbeatable games. They are incredibly stupid, or they have
+    some profit from your action (they invite you via referral to the game etc.).
+&lt;/p&gt;</content><author><name>Elspeth Rooney</name></author><summary type="html">Introduction Many variants of HI-LO game occur on the free crypto ecosystem. Often the game is called directly the multiply game, or it is sorted in the multiply games category. The goal of this game is to make a binary (higher/lower than something) prediction about value of a random number. The most common variant of this game can be seen at freebitco.in and FaucetPay. This game definitely belongs into the gambling category. The main idea of this game is based on fact, that the game provider always give unfair odds. In other words - the range of winning numbers is always somehow smaller than the range of losing numbers. What does it mean? The loss is always more common than win. On the internet, it is possible to find some tutorials how to beat this game. I analyze these tutorials theoretically and I also test them. Currently I can conclude, no one of them is working. And I can explain to you why they are not working at all. The only one viable existing approach how to deal with these games is presented in this post.</summary></entry><entry><title type="html">The best free crypto pages of the year 2020</title><link href="http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020.html" rel="alternate" type="text/html" title="The best free crypto pages of the year 2020" /><published>2020-10-27T07:13:12+01:00</published><updated>2020-10-27T07:13:12+01:00</updated><id>http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020</id><content type="html" xml:base="http://localhost:4000/2020/10/27/the-best-free-crypto-pages-2020.html">&lt;p&gt;
     The best crypto websites recommended to earn free crypto in 2020 are introduced here.
     All pages mentioned here are considered to be legit.
     However, keep in mind, they are not regulated,
@@ -106,6 +223,8 @@ Best option for the most crypto claimers. I wrote more about this website in a s
     If you set the game to coin flip mode, you will get only 47.5% winning
     chance. You would need 50% to stay even. So there is no chance to win
     in a long run with an average luck.
+    More information about the HI-LO game in general
+    is my other &lt;a href=&quot;/2020/11/03/hi-lo-games.html&quot;&gt;post&lt;/a&gt;.
 &lt;/p&gt;
 
 &lt;h2&gt;Earn - interest savings&lt;/h2&gt;
@@ -224,18 +343,24 @@ as a viable option in your free BTC site portfolio.
 
 &lt;h2&gt;Active scams&lt;/h2&gt;
 &lt;ul&gt;
-    &lt;li&gt;&lt;i&gt;cryptotwister.io&lt;/i&gt; - ponzi scheme, domain created: 2020-02-23&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;cashmix.io&lt;/i&gt; - ponzi scheme&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;bitcoinfibers.com&lt;/i&gt; - ponzi scheme, launched: 2020-10-29&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;bitcoinworldwide.live&lt;/i&gt; - spreading malignant information, domain created: 2020-10-23&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;bitcong.us&lt;/i&gt; - ponzi scheme, domain created: 2020-10-16&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;Coinwintrade.com&lt;/i&gt; - ponzi scheme, domain created: 2020-06-12&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;miningbase.cloud&lt;/i&gt; - ponzi scheme&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;korean-gold.com&lt;/i&gt; - ponzi scheme, domain created: 2019-05-09&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;oilsupergold.com&lt;/i&gt; - ponzi scheme&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;ad-country.com&lt;/i&gt; - ponzi scheme, domain created: 2019-03-14&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;cryptotwister.io&lt;/i&gt; - ponzi scheme&lt;/li&gt;
-    &lt;li&gt;&lt;i&gt;keyaco.net&lt;/i&gt; - ponzi scheme&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;tozzu.io&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;btc-10.com&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;falcon-golden.com&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;houratm.com&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;crypto-riches.ltd&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;btc-go.com&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;bitcoinfibers.com&lt;/i&gt; &lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;bitcoinworldwide.live&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;bitcoinsquare.best&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;bitcong.us&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;Coinwintrade.com&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;cryptotwister.io&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;korean-gold.com&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;ad-country.com&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;oilsupergold.com&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;keyaco.net&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;cashmix.io&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;miningbase.cloud&lt;/i&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 If you want to report another scam,
