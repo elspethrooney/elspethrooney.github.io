@@ -1,4 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-03T20:09:41+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Free crypto seriously</title><subtitle>A Blog about free bitcoins - faucets, watching adds, lotery etc.</subtitle><author><name>Elspeth Rooney</name></author><entry><title type="html">Best strategy for HI-LO game</title><link href="http://localhost:4000/2020/11/03/hi-lo-games.html" rel="alternate" type="text/html" title="Best strategy for HI-LO game" /><published>2020-11-03T16:35:55+01:00</published><updated>2020-11-03T16:35:55+01:00</updated><id>http://localhost:4000/2020/11/03/hi-lo-games</id><content type="html" xml:base="http://localhost:4000/2020/11/03/hi-lo-games.html">&lt;h2&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-11-06T17:24:48+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Free crypto seriously</title><subtitle>A Blog about free bitcoins - faucets, watching adds, lotery etc.</subtitle><author><name>Elspeth Rooney</name></author><entry><title type="html">How to spot a scam website</title><link href="http://localhost:4000/2020/11/06/how_to_spot_a_scam.html" rel="alternate" type="text/html" title="How to spot a scam website" /><published>2020-11-06T16:10:01+01:00</published><updated>2020-11-06T16:10:01+01:00</updated><id>http://localhost:4000/2020/11/06/how_to_spot_a_scam</id><content type="html" xml:base="http://localhost:4000/2020/11/06/how_to_spot_a_scam.html">&lt;h2&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;
+    The free crypto ecosystem is full of various scam attempts.
+    Every day new scam websites are launched (see my list of
+    &lt;a href=&quot;/2020/10/25/known_scams.html&quot;&gt;scam pages&lt;/a&gt;.
+    The insane number of scam attempts can probably mean a bad thing -
+    some of those little projects are successful.
+&lt;/p&gt;
+&lt;p&gt;
+    In this post I am revealing the basic principles how to recognize the obvious and
+    not the so obvious scam websites.
+    I investigate many scam sites and this post is describing the common
+    features I have identified.
+&lt;/p&gt;
+
+
+&lt;h2&gt;Unreal profit promises&lt;/h2&gt;
+&lt;p&gt;
+    Probably the first and most easy thing you can check is what they are offering.
+    If they offer too much too soon, it is definitely a scam, no matter what they argument.
+    What is too much and what is reasonable?
+    In the most of the world countries,
+    the saving interests offered by regulated banks are below 1% per year.
+    Keep in mind, the inflation is higher than that
+    most of the time at the most of the countries.
+    Some trustable crypto services offer much bigger interests.
+    Commonly you can see something like 2-5% per year
+    (&lt;a href=&quot;https://freebitco.in/?r=38728911&quot;&gt;freebitco.in&lt;/a&gt;,
+    &lt;a href=&quot;https://www.coinbase.com/join/cejnek_m&quot;&gt;Coinbase&lt;/a&gt;,
+    &lt;a href=&quot;https://www.binance.com/en/register?ref=HXULRJ33&quot;&gt;Binance&lt;/a&gt;).
+    There are some exceptions with interests close to 10% per year
+    - mainly for stablecoins (&lt;a href=&quot;https://crypto.com/exch/rqx87bbrmv&quot;&gt;Crypto.com&lt;/a&gt;).
+    At this moment,
+    I conclude that &lt;b&gt;everything above 10% per year is highly suspicious&lt;/b&gt;.
+    If someone offers you 200% per year or 10% per week,
+    you can be sure it is a joke or a scam.
+&lt;/p&gt;
+
+&lt;h2&gt;Lack of transparency&lt;/h2&gt;
+
+&lt;img class=&quot;in_post&quot; src=&quot;/img/posts/0005a.jpg&quot;&gt;
+
+&lt;p&gt;
+    Scam projects rarely explain how they earn money to cover your earnings.
+    The reason is simple. They do not explain, because
+    there is nothing trustable to say, so they rather say nothing.
+    I have not seen many scams trying to explain something to their users.
+    But a few examples are worthy to mention:
+    &lt;ul&gt;
+        &lt;li&gt;
+            &lt;i&gt;We are running money tumbler and we need many transactions to cover it.&lt;/i&gt;
+            Although it sounds somehow trustable, it is not possible.
+            Check the average prize of money tumbling services and you will see
+            there is no chance they can earn that much money.
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;i&gt;It is the miracle of bitcoin mining.&lt;/i&gt; You need to be totally naive to
+            trust this one. It is not even an explanation at all.
+            There are no miracles in a real world, nor in bitcoin world.
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;i&gt;It is really complicated and it cost us a lot of money to find out.
+            We cannot tell our secrets to everyone.&lt;/i&gt;
+            This lie is another scam gem. You are not asking for secrets.
+            You are asking for basic information - and they should tell.
+        &lt;/li&gt;
+    &lt;/ul&gt;
+    So the second sign of the scam website is a lack of explanation
+    how they plan to make the miracle happen.
+    &lt;b&gt;A project with a of lack transparency and/or explanation is most likely a scam.&lt;/b&gt;
+&lt;/p&gt;
+
+&lt;h2&gt;Challenge for your impulsiveness&lt;/h2&gt;
+&lt;p&gt;
+    Because the scam sites has nothing trustworthy to offer,
+    they try to challenge you to take a risk.
+    They say things that sound way too good to be truth.
+    See some of their funny statements:
+    &lt;ul&gt;
+        &lt;li&gt;&lt;i&gt;It’s easier to earn on crypto investments then you think.&lt;/i&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i&gt;It's time for simple and understandable solutions!&lt;/i&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i&gt;All restrictions exist only in the minds of people.
+            Maybe this is the only chance you get in your life.
+Who knows? So ... act NOW !!!&lt;/i&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i&gt;Making money with us without expert knowledge is easier than you think. &lt;/i&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    No matter how good those lies sounds, they are still lies.
+    There are no shortcuts. Nobody will give you willingly something for free.
+    If we analyze the scam statements closer, we can see some repeating patterns:
+    &lt;ul&gt;
+        &lt;li&gt;&lt;i&gt;We will give you a lot of money, even though you do not deserve it.&lt;/i&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i&gt;You have to risk to gain (send us money), it is your last chance.&lt;/i&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i&gt;Sending money to us is not a risk.&lt;/i&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    The lesson is simple. &lt;b&gt;Do not let them fool you&lt;/b&gt;. They are lying.
+    It is their job to lie.
+&lt;/p&gt;
+
+&lt;h2&gt;Positive reviews and evidence&lt;/h2&gt;
+
+&lt;img class=&quot;in_post&quot; src=&quot;/img/posts/0005b.jpg&quot;&gt;
+
+&lt;p&gt;
+    The problem with reviews is simple. The reviews are written by people.
+    And some people can lie, while other people can trust false assumptions.
+    So keep in mind, positive reviews does not mean anything.
+    The portals displaying reviews are not working for a greater good,
+    they are working for money instead.
+    Also keep in mind, that picture or video is not a proof.
+    Today, &lt;b&gt;anyone can fake any amount of evidence&lt;/b&gt;. Do not be stupid.
+    Just because you or someone else would like to trust something, it does
+    not become a truth.
+&lt;/p&gt;
+
+
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+The major points of this post can be summarized as follows:
+&lt;ul&gt;
+    &lt;li&gt;If something sounds good, it is a scam.&lt;/li&gt;
+    &lt;li&gt;If they cannot explain their business, they are scam.&lt;/li&gt;
+    &lt;li&gt;Do not trust fake proofs.&lt;/li&gt;
+    &lt;li&gt;Do not trust random reviews.&lt;/li&gt;
+    &lt;li&gt;Do not risk nor guess, there is enough time to think and ask.&lt;/li&gt;
+    &lt;li&gt;Do not be stupid.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Elspeth Rooney</name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Best strategy for HI-LO game</title><link href="http://localhost:4000/2020/11/03/hi-lo-games.html" rel="alternate" type="text/html" title="Best strategy for HI-LO game" /><published>2020-11-03T16:35:55+01:00</published><updated>2020-11-03T16:35:55+01:00</updated><id>http://localhost:4000/2020/11/03/hi-lo-games</id><content type="html" xml:base="http://localhost:4000/2020/11/03/hi-lo-games.html">&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;
     Many variants of HI-LO game occur on the free crypto ecosystem.
     Often the game is called directly the multiply game, or it is sorted in the
@@ -147,6 +272,7 @@ Best option for the most crypto claimers. I wrote more about this website in a s
     Furthermore, they arrange various offers from the other providers (paid surveys etc.).
 &lt;/p&gt;
 
+
 &lt;h2&gt;3. Faucet Crypto&lt;/h2&gt;
 &lt;p&gt;
     The &lt;a href=&quot;https://www.faucetcrypto.com/ref/487446&quot;&gt;Faucet Crypto&lt;/a&gt;
@@ -158,6 +284,7 @@ Best option for the most crypto claimers. I wrote more about this website in a s
     On the other hand, this site is invasive with its ads and the time counters
     works only if the browser tab has a full focus. That is quite annoying.
 &lt;/p&gt;
+
 
 &lt;h2&gt;4. FaucetPay&lt;/h2&gt;
 &lt;p&gt;
@@ -348,6 +475,10 @@ as a viable option in your free BTC site portfolio.
 
 &lt;h2&gt;Active scams&lt;/h2&gt;
 &lt;ul&gt;
+    &lt;li&gt;&lt;i&gt;iona-vin.cc&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;exchange-rates.top&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;easycashbux.com/betfury&lt;/i&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i&gt;sushibit.cc&lt;/i&gt;&lt;/li&gt;
     &lt;li&gt;&lt;i&gt;tozzu.io&lt;/i&gt;&lt;/li&gt;
     &lt;li&gt;&lt;i&gt;btc-10.com&lt;/i&gt;&lt;/li&gt;
     &lt;li&gt;&lt;i&gt;falcon-golden.com&lt;/i&gt;&lt;/li&gt;
@@ -366,6 +497,14 @@ as a viable option in your free BTC site portfolio.
     &lt;li&gt;&lt;i&gt;keyaco.net&lt;/i&gt;&lt;/li&gt;
     &lt;li&gt;&lt;i&gt;cashmix.io&lt;/i&gt;&lt;/li&gt;
     &lt;li&gt;&lt;i&gt;miningbase.cloud&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Inactive&lt;/h2&gt;
+&lt;p&gt;
+    These sites are reported as inactive (at least at the moment of test).
+&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;i&gt;btcmillionaire.io&lt;/i&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 If you want to report another scam,
