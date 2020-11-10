@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://elspethrooney.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elspethrooney.github.io/" rel="alternate" type="text/html" /><updated>2020-11-10T10:39:16+01:00</updated><id>https://elspethrooney.github.io/feed.xml</id><title type="html">Free crypto seriously</title><subtitle>A Blog about free bitcoins - faucets, watching adds, lotery etc.</subtitle><author><name>Elspeth Rooney</name></author><entry><title type="html">The whole truth about Honeygain</title><link href="https://elspethrooney.github.io/2020/11/10/the_whole_truth_about_honeygain.html" rel="alternate" type="text/html" title="The whole truth about Honeygain" /><published>2020-11-10T09:55:23+01:00</published><updated>2020-11-10T09:55:23+01:00</updated><id>https://elspethrooney.github.io/2020/11/10/the_whole_truth_about_honeygain</id><content type="html" xml:base="https://elspethrooney.github.io/2020/11/10/the_whole_truth_about_honeygain.html">&lt;h2&gt;Introduction&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://elspethrooney.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://elspethrooney.github.io/" rel="alternate" type="text/html" /><updated>2020-11-10T16:08:13+01:00</updated><id>https://elspethrooney.github.io/feed.xml</id><title type="html">Free crypto seriously</title><subtitle>A Blog about free bitcoins - faucets, watching adds, lotery etc.</subtitle><author><name>Elspeth Rooney</name></author><entry><title type="html">The whole truth about Honeygain</title><link href="https://elspethrooney.github.io/2020/11/10/the_whole_truth_about_honeygain.html" rel="alternate" type="text/html" title="The whole truth about Honeygain" /><published>2020-11-10T09:55:23+01:00</published><updated>2020-11-10T09:55:23+01:00</updated><id>https://elspethrooney.github.io/2020/11/10/the_whole_truth_about_honeygain</id><content type="html" xml:base="https://elspethrooney.github.io/2020/11/10/the_whole_truth_about_honeygain.html">&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;
     &lt;a href=&quot;https://r.honeygain.me/ELSPEFA544&quot;&gt;Honeygain&lt;/a&gt; is a platform designed
     to share your internet bandwidth for a reward.
@@ -385,27 +385,32 @@ Best option for the most crypto claimers. I wrote more about this website in a s
     According to my tests (deposit/withdraw), the &lt;a href=&quot;https://freebitco.in/?r=38728911&quot;&gt;freebitco.in&lt;/a&gt; is legit.
     The &lt;a href=&quot;https://freebitco.in/?r=38728911&quot;&gt;freebitco.in&lt;/a&gt; is on the market for many years.
     During all my tests and experiments, I have not noticed anything suspicious.
-    All of their features has reasonable parameters - they are not promising miracles.
-    Also they are very transparent and their games can be classified as a provably fair.
-    I also wrote Python script to replicate the random number generation process from
+    All of their features have reasonable parameters - they are not promising miracles.
+    Also, they are very transparent and their games can be classified as a provably fair.
+    I also wrote a Python script to replicate the random number generation process from
     server and user hash and I have to admit it is fair.
     They responded to my emails promptly.
 &lt;/p&gt;
 
 &lt;h2&gt;Free faucet&lt;/h2&gt;
 &lt;p&gt;
-    The amount of BTC you can get from their faucet is derived from the value of USD.
-    The biggest price you can get is BTC equivalent of $200.
+    The amount of BTC you can get from their
+    faucet is derived from the value of the USD.
+    The biggest price you can get is the BTC equivalent of $200.
     Every time you roll the faucet you have a chance 1:10000 to get the maximal price.
-    There are also other bigger prices with various chances to success.
+    There are also other bigger prices with various
+    chances for success.
     The lowest price is approximately 0.002 USD. You can roll the faucet every 60 minutes.
 &lt;/p&gt;
 &lt;p&gt;
     How much can you get? In case you roll 10k times with an average luck
-    (your rolls contain every possible number 1-1000 exactly once),
-    then you win $270 worth in BTC. So in case you roll ten times per day,
+    (your rolls contain every possible
+    number 1-1000 exactly once),
+    then you win $270 worth in BTC. So in case you
+    roll ten times per day,
     you get $270 in about 1k days (less than 3 years),
-    or in other words $0.27 per day. Keep in mind that these numbers are
+    or in other words $0.27 per day. Keep in mind that these
+    numbers are
     average estimate for person with average luck in a long run.
 &lt;/p&gt;
 
@@ -435,9 +440,9 @@ The interest rate is similar to other legit services, so I would trust it is not
 &lt;h2&gt;Lottery&lt;/h2&gt;
 &lt;p&gt;
     There are actually two lotteries.
-    You can buy or obtain tickets as reward for using their features.
+    You can buy or obtain tickets as a reward for using their features.
     However the lotteries are not worthy in a long run.
-    The prize of ticket is higher than an expected value.
+    The prize of a ticket is higher than an expected value.
     In other words, you pay more than you can actually win.
     The lottery is good only for fun.
 &lt;/p&gt;
@@ -445,24 +450,24 @@ The interest rate is similar to other legit services, so I would trust it is not
 &lt;h2&gt;Betting&lt;/h2&gt;
 &lt;p&gt;
     The &lt;a href=&quot;https://freebitco.in/?r=38728911&quot;&gt;freebitco.in&lt;/a&gt;
-    features quite an unique perimutuel betting option.
+    features quite a unique parimutuel betting option.
     The odds are set according to the pool size of the bet options.
     Example: if the most users bet on team A,
     you can get a much better odd on the team B.
     In common betting office you get odds according
     to an extremely precise prediction model, so you have
     a very little chance to win something in a long run.
-    However, with the perimutuel betting the odds
+    However, with the parimutuel betting the odds
     are given by actual bettors.
-    Thus if you understand any topic - sport, politics etc. better
+    Thus, if you understand any topic - sport, politics etc. better
     than other people do, you should definitely try betting via
     &lt;a href=&quot;https://freebitco.in/?r=38728911&quot;&gt;freebitco.in&lt;/a&gt;.
 &lt;/p&gt;
 &lt;p&gt;
     I randomly bet on random topics for more than 150+ times on
     &lt;a href=&quot;https://freebitco.in/?r=38728911&quot;&gt;freebitco.in&lt;/a&gt;
-    with outcome close to 0. Thus I assume that their fee is low
-    and the winners are payed fairly.
+    with outcome close to 0. Thus, I assume that their fee is low
+    and the winners are paid fairly.
 &lt;/p&gt;
 
 &lt;h2&gt;Referral program&lt;/h2&gt;
@@ -484,10 +489,10 @@ The interest rate is similar to other legit services, so I would trust it is not
     almost for every action you do (or your referrals do).
     You exchange the reward points for various prizes,
     or you can change them for BTC
-    - one reward points is equal to one satoshi.
+    - one reward point is equal to one satoshi.
     Keep in mind that the exchange for BTC is
     possible only if you collect at least 100k of reward points.
-    Also if you play free faucet more
+    Also, if you play free faucet more
     than 12 times per day, it is worthy to buy the reward
     point booster. You can buy this booster
     for 1200 reward points, and it grants you 100 extra
